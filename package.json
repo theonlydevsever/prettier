@@ -1,0 +1,22 @@
+{
+  "name": "@theonlydevsever/prettier",
+  "version": "1.0.0",
+  "description": "The standard Prettier configuration for @theonlydevsever",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theonlydevsever/prettier.git"
+  },
+  "author": "Dylan O'Leary <dylanolearydev@gmail.com>",
+  "license": "MIT",
+  "prettier": "@theonlydevsever/prettier",
+  "keywords": [
+    "config",
+    "configuration",
+    "format",
+    "prettier"
+  ],
+  "peerDependencies": {
+    "prettier": "^2.4.0"
+  }
+}
